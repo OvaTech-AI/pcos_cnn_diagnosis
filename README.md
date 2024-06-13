@@ -1,4 +1,4 @@
-# PCOS Diagnosis UI 🐠
+# PCOS Diagnosis UI - CNN Model🐠
 
 **Demo:** [Try the CNN model here](https://huggingface.co/spaces/ecats/pcos_diagnosis_ui)
 
